@@ -7,7 +7,7 @@ def textkolor(str)
   colour = "#"
   
   
-  for j in (0).upto(4)
+  for j in (0).upto(5)
     value = (hash >> (j * 8) & 0xFF)
     colour += "00#{value.to_s(16)}"[-2]
   end

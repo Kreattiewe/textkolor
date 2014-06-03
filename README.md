@@ -17,10 +17,10 @@ gem 'textkolor'
 ## Usage and examples
 
 ```ruby
-textkolor("kreattiewe")     # => #b995f
-textkolor("angel botto")    # => #b18eb
-textkolor("A")              # => #90000
-textkolor("abcde")          # => #34410
+textkolor("kreattiewe")     # => #b995f6
+textkolor("angel botto")    # => #b18eb1
+textkolor("A")              # => #900000
+textkolor("abcde")          # => #344100
 ``` 
 
 ## Author
